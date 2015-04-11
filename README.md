@@ -1,2 +1,2 @@
-# teaching-plan
-A Teaching Plan Admin Program
+# 教学计划管理平台
+
